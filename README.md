@@ -1,6 +1,6 @@
 # Estudos-Python
 ### Estudos criados para um grupo que surgiu do Facebook
-    - Caso você tenha esquecido de algo ou precise de uma pequena ajuda, dê uma olhada na wiki [aqui](https://github.com/diego-rapoport/estudos-python/wiki/In%C3%ADcio)
+- Caso você tenha esquecido de algo ou precise de uma pequena ajuda, dê uma olhada na wiki [aqui](https://github.com/diego-rapoport/estudos-python/wiki/In%C3%ADcio)
 
 ---
 
